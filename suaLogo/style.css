@@ -1,0 +1,42 @@
+nav {
+    margin-top: 2%;
+}
+
+.corVerde-claro {
+    color: #8CC63F;
+}
+
+header {
+    padding-top: 8%;
+}
+
+.corPreto {
+    color: #0000000;
+}
+
+.enderecos {
+    margin-top: 8%;
+    font-size: 10px;
+    font-weight: bold;
+    color: #ABABAB;
+}
+
+.campoEndereco {
+    border-radius: 20px 0px;
+    padding: 3% 25%;
+    filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.2));
+    border: solid;
+}
+
+.calcular {
+    background: linear-gradient(90deg, #000000 0%, #8CC63F 100%);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 25px;
+
+    border-radius: 20px 0px;
+    padding: 1% 25%;
+    border: none;
+}
