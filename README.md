@@ -1,1 +1,1 @@
-# suaLogo.md
+# suaLogo
